@@ -4,5 +4,5 @@ Hi! My name is "Whirvis" Trent Summerlin. Some of my friends call me Whirvis, ho
 ## How to contact me
 I can be contacted multiple ways:
 1. Twitter: [@whirvis](http://twitter.whirvis.com)
-2. Discord: [Whirvis#0001](https://discord.gg/jPBUNC)
+2. Discord: [Whirvis#0001](http://discord.whirvex.com)
 3. E-mail: whirvis@ardenus.org
